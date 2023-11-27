@@ -7,23 +7,25 @@
 
 *Bienvenue sur mon profil!* I'm a third year Computer Science student at the University of Jyväskylä in Finland, steadily compiling the final pieces of my Bachelor's degree. In the midst of Finland's winter wonderland, I find the warmth of coding sessions melting away the Nordic frost, much like a cozy chalet nestled in the Swiss Alps.
 
-### More about me:
+### About me:
 
 ```javascript
-const aaro = {
-    code: ["Java", "Python", "C#", "C++", "Javascript", "HTML", "CSS"],
-    technologies: {
-        databases: ["SQL", "SQLite", "H2"],
-        tools: ["IntelliJ Idea", "VS Code", "Visual Studio", "Eclipse", "CLion", "Wireshark". "VirtualBox"],
-        familiar: ["JUnit", "Maven", "R", "Git", "Bash", "Linux", "React.js"]
+    code: {
+        proficient: ["Java", "Python", "JavaScript", "HTML", "CSS", "C#", "C++"],
+        experience: {
+            java: "Over 5000 lines of code",
+            others: "Over 3000 lines of code each"
+        }
     },
-    paradigms: ["OOP", "TDD"],
+    technologies: {
+        familiar: ["SQL", "Git", "React.js", "Linux", "Bash", "SQLite", "UML", "Virtual Machines", "Maven", "JUnit Testing"]
+    },
     languages: {
         fluent: ["Finnish", "English"],
-        ok: ["Swedish"],
-        un petit peu: ["French"]
+        sufficient: ["Swedish"],
+        un petit peu: ["Français"]
     },
-    currentFocus: "Français",
+    currentFocus: "Improving my French",
     funFact: "Rome ne s'est pas faite en un jour, et un bon code non plus."
 };
 
@@ -31,3 +33,5 @@ const aaro = {
 ```
 
 🌱 *Take your time exploring my projects. They are steps in my learning journey, each one an opportunity to grow and improve. While my profile may not be a masterpiece yet, it's a sincere reflection of my progress and passion for programming. Merci de votre visite!*
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/AaroKoinsaari/) or reach out for a chat. I'm always open to discussing new ideas, opportunities, or simply sharing our experiences in software development. Let's connect and grow together!
