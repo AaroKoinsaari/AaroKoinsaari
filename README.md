@@ -14,14 +14,14 @@ const aaro = {
     code: ["Java", "Python", "C#", "C++", "Javascript", "HTML", "CSS"],
     technologies: {
         databases: ["SQL", "SQLite", "H2"],
-        tools: ["IntelliJ Idea", "VS Code", "Visual Studio", "PyCharm", "CLion", "R", "Wireshark". "VirtualBox"],
-        familiar: ["JUnit", "Maven", "Git", "XML" "Linux", "React.js"]
+        tools: ["IntelliJ Idea", "VS Code", "Visual Studio", "Eclipse", "CLion", "Wireshark". "VirtualBox"],
+        familiar: ["JUnit", "Maven", "R", "Git", "Bash", "Linux", "React.js"]
     },
     paradigms: ["OOP", "TDD"],
     languages: {
         fluent: ["Finnish", "English"],
         ok: ["Swedish"],
-        basics: ["French"]
+        un petit peu: ["French"]
     },
     currentFocus: "Français",
     funFact: "Rome ne s'est pas faite en un jour, et un bon code non plus."
