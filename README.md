@@ -5,20 +5,20 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/aarokoinsaari)](https://instagram.com/aarokoinsaari)
 [![Proton Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:aaro.koinsaari@proton.me)](mailto:aaro.koinsaari@proton.me)
 
-*Bienvenue sur mon profil!* I'm a third year Computer Science student at the University of Jyväskylä in Finland, steadily compiling the final pieces of my Bachelor's degree. In the midst of Finland's winter wonderland, I find the warmth of coding sessions melting away the Nordic frost, much like a cozy chalet nestled in the Swiss Alps.
+*Bienvenue sur mon profil!* I'm a final year Mathematical Information Technology student at the University of Jyväskylä in Finland, steadily compiling the final pieces of my Bachelor's degree. In the midst of Finland's winter wonderland, I find the warmth of coding sessions melting away the Nordic frost, much like a cozy chalet nestled in the Swiss Alps.
 
 ### About me:
 
 ```javascript
     code: {
-        proficient: ["Java", "Python", "JavaScript", "HTML", "CSS", "C#", "C++"],
+        programming: ["Java", "Python", "JavaScript", "ReactJS", "HTML", "CSS", "C#", "C/C++", "SQL", "Bash"],
         experience: {
-            java: "Over 5000 lines of code",
-            others: "Over 3000 lines of code each"
+            confident: ["Java", "Python"],
+            familiar: ["Others"]
         }
     },
     technologies: {
-        familiar: ["SQL", "Git", "React.js", "Linux", "Bash", "SQLite", "UML", "Virtual Machines", "Maven", "JUnit Testing"]
+        familiar: ["Git", "Linux", "SQLite", "UML", "Virtual Machines", "Maven", "JUnit Testing"]
     },
     languages: {
         fluent: ["Finnish", "English"],
