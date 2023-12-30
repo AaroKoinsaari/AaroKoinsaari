@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/aarokoinsaari)](https://instagram.com/aarokoinsaari)
 [![Proton Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:aaro.koinsaari@proton.me)](mailto:aaro.koinsaari@proton.me)
 
-*Bienvenue sur mon profil!* I'm a final year Mathematical Information Technology student at the University of Jyväskylä in Finland, steadily compiling the final pieces of my Bachelor's degree. In the midst of Finland's winter wonderland, I find the warmth of coding sessions melting away the Nordic frost, much like a cozy chalet nestled in the Swiss Alps.
+*Bienvenue sur mon profil!* I'm a final year Mathematical Information Technology student specializing in Software Engineering at the University of Jyväskylä in Finland, steadily compiling the final pieces of my Bachelor's degree. In the midst of Finland's winter wonderland, I find the warmth of coding sessions melting away the Nordic frost, much like a cozy chalet nestled in the Swiss Alps.
 
 ### About me:
 
